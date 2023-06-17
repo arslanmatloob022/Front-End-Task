@@ -2,6 +2,7 @@ body{
     background-image: url(Icons/bgimg4.jpg);
     background-position: center;
     background-repeat: no-repeat;
+    background-color: black;
 }
 *{
     margin: 0;
